@@ -1,0 +1,32 @@
+[
+  {
+    "course_code": "COURSE001",
+    "name": "Django Certified Developer",
+    "code": "CERT001",
+    "description": "Django certification"
+  },
+  {
+    "course_code": "COURSE002",
+    "name": "AI Certified Engineer",
+    "code": "CERT002",
+    "description": "AI certification"
+  },
+  {
+    "course_code": "COURSE003",
+    "name": "Data Science Certified Professional",
+    "code": "CERT003",
+    "description": "Data Science certification"
+  },
+  {
+    "course_code": "COURSE004",
+    "name": "Cloud Computing Certified Specialist",
+    "code": "CERT004",
+    "description": "Cloud Computing certification"
+  },
+  {
+    "course_code": "COURSE005",
+    "name": "Cybersecurity Certified Expert",
+    "code": "CERT005",
+    "description": "Cybersecurity certification"
+  }
+]

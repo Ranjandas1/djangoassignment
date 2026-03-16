@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Tech Corp",
+    "code": "VEND001",
+    "description": "Technology Vendor"
+  },
+  {
+    "name": "Global Solutions",
+    "code": "VEND002",
+    "description": "Software Vendor"
+  },
+    {
+        "name": "Innovate Inc.",
+        "code": "VEND003",
+        "description": "IT Services Vendor"
+    },
+    {
+        "name": "Data Systems",
+        "code": "VEND004",
+        "description": "Data Management Vendor"
+    },
+    {
+        "name": "CloudTech",
+        "code": "VEND005",
+        "description": "Cloud Services Vendor"
+    }
+]

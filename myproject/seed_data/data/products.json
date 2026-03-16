@@ -1,0 +1,32 @@
+[
+  {
+    "vendor_code": "VEND001",
+    "name": "Cloud Platform",
+    "code": "PROD001",
+    "description": "Cloud software"
+  },
+  {
+    "vendor_code": "VEND002",
+    "name": "AI Suite",
+    "code": "PROD002",
+    "description": "AI tools"
+  },
+  {
+    "vendor_code": "VEND003",
+    "name": "Data Analytics",
+    "code": "PROD003",
+    "description": "Data analysis software"
+  },
+  {
+    "vendor_code": "VEND004",
+    "name": "Cybersecurity Solution",
+    "code": "PROD004",
+    "description": "Cybersecurity software"
+  },
+  {
+    "vendor_code": "VEND005",
+    "name": "Collaboration Tool",
+    "code": "PROD005",
+    "description": "Team collaboration software"
+  }
+]

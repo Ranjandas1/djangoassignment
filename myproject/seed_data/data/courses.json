@@ -1,0 +1,32 @@
+[
+  {
+    "product_code": "PROD001",
+    "name": "Django Development",
+    "code": "COURSE001",
+    "description": "Learn Django"
+  },
+  {
+    "product_code": "PROD002",
+    "name": "AI Engineering",
+    "code": "COURSE002",
+    "description": "AI course"
+  },
+  {
+    "product_code": "PROD003",
+    "name": "Data Science",
+    "code": "COURSE003",
+    "description": "Data Science course"
+  },
+  {
+    "product_code": "PROD004",
+    "name": "Web Development",
+    "code": "COURSE004",
+    "description": "Web Development course"
+  },
+  {
+    "product_code": "PROD005",
+    "name": "Mobile App Development",
+    "code": "COURSE005",
+    "description": "Mobile App Development course"
+  }
+]
