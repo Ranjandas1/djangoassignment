@@ -62,7 +62,7 @@ myproject
 ### 1. Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Ranjandas1/djangoassignment.git
 cd myproject
 ```
 
@@ -91,6 +91,12 @@ venv\Scripts\activate
 ---
 
 ### 3. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+or
 
 ```bash
 pip install django djangorestframework drf-yasg
@@ -231,6 +237,3 @@ Examples
 - Duplicate mapping prevention
 - Swagger API documentation
 - Seed script for sample data
-
----
-# djangoassignment
